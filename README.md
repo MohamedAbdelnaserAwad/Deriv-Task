@@ -1,6 +1,6 @@
 # price_tracker
 
-A  flutter task for Deriv company
+A  flutter task for Deriv company that concentrate on using websocket integration from api for simple UI and use some OOP concept to reach the purpose of task .
 
 ## Getting Started
 
